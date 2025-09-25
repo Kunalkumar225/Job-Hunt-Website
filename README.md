@@ -1,2 +1,8 @@
-# Job-Hunt-Website
-I have developed a Job Hunt website using the complete MERN stack (MongoDB, Express.js, React.js, and Node.js), designed to provide a seamless and efficient platform for job seekers and recruiters. The application offers a modern, responsive and user-friendly interface, styled with Tailwind CSS to ensure a clean and professional look across devices
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
